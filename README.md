@@ -34,7 +34,7 @@ Puedes encontrarme en varias plataformas. Si quieres aprender más sobre program
 
 📸 **Instagram**: En mi cuenta, comparto contenido educativo sobre Java, Spring Boot y más, con el objetivo de ayudar a futuros desarrolladores en su aprendizaje.
 
-[![Instagram](https://img.shields.io/badge/Instagram-CodeStartersDAMDAW-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/codestartersdamdaw/)
+[![Instagram](https://img.shields.io/badge/Instagram-CodeStartersAcademy-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/codestartersacademy/)
 
 💼 **LinkedIn**: Conéctate conmigo profesionalmente y charlemos sobre oportunidades, proyectos y más.
 
