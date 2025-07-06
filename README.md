@@ -1,13 +1,15 @@
 # Hola, mi nombre es Antonio Lavado 👋
-## Estudiante de 2º año de Desarrollo de Aplicaciones Multiplataforma
+## Desarrollador de Software especializandose en BigData
 
-👋 ¡Hola! Soy Antonio Lavado, estudiante de 2º año en Desarrollo de Aplicaciones Multiplataforma (DAM). Mi camino hacia la programación comenzó de manera inesperada mientras cursaba la carrera de Nutrición Humana y Dietética. Al terminar, descubrí mi verdadera pasión por el desarrollo de software, lo que me impulsó a profundizar en este campo de forma autodidacta.
+👋 ¡Hola! Soy Antonio, desarrollador especializado en backend y apasionado por el ecosistema Big Data.
 
-✨ Finalmente, decidí dar el salto y formarme de manera oficial, con el objetivo claro de dedicarme profesionalmente a este apasionante mundo. Actualmente, estoy enfocado en aprender Java como mi lenguaje principal y me siento muy atraído por el backend. Estoy explorando tecnologías como Spring Boot, Kubernetes y Hibernate, todas parte de un stack orientado a microservicios.
+🎓 Tras finalizar el grado superior en Desarrollo de Aplicaciones Multiplataforma (DAM), comencé mi carrera profesional en el mundo del Big Data, trabajando con tecnologías del ecosistema Oracle, incluyendo ODI (Oracle Data Integrator) y PL/SQL. Esta experiencia me ha permitido adentrarme en el procesamiento de grandes volúmenes de datos y comprender en profundidad los procesos ETL.
 
-Soy una persona curiosa y me encanta estar en constante aprendizaje. Además, disfruto trabajando en equipo, donde puedo compartir ideas y colaborar en proyectos innovadores. 💡
+💻 Mi camino hacia la programación comenzó de forma inesperada mientras estudiaba Nutrición Humana y Dietética. Fue ahí donde descubrí mi verdadera vocación por el desarrollo de software, iniciando una etapa autodidacta que más tarde consolidé con formación reglada.
 
-Cada día es una nueva oportunidad para crecer y afrontar retos. Me motiva la posibilidad de usar la tecnología para crear soluciones que realmente marquen la diferencia. 🚀
+🚀 Actualmente, sigo profundizando en tecnologías backend como Java y Spring Boot, así como en arquitecturas orientadas a microservicios con herramientas como Hibernate y Kubernetes. Me motiva especialmente el desarrollo de soluciones escalables y eficientes que aporten valor real.
+
+🤝 Soy una persona curiosa, comprometida con el aprendizaje continuo y disfruto trabajando en equipo, compartiendo ideas y construyendo proyectos innovadores.
 
 ## ¿Qué tecnologías utilizo en mis proyectos?
 
